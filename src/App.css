@@ -41,6 +41,10 @@
   .App-logo {
     height: 20vmin;
   }
+  .padding {
+    padding-bottom: 60px!important;
+  }
+  
 }
 .padding {
   padding: 30px;
